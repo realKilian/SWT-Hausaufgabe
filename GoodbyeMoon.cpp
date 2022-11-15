@@ -13,4 +13,3 @@ int main()
     GoodbyeMoon gm = GoodbyeMoon();
     gm.printText();
 }
-// Bottom Text
